@@ -5,14 +5,16 @@ Bu depoda "Git ile Versiyon Kontrolü" kitabında ele alınan konuları da kapsa
 > **NOT:** İnternet tarayıcınızı kullanarak Git komutlarını çalıştırmak için Code School tarafından hazırlanan [Try Git](http://try.github.com/) sayfasını da kullanabilirsiniz
 
 # Gün gün alıştırmalar
-* [[Gün 1 - İstemci Kurulumları|01. Gün: İstemci Kurulumları]]
-* [[Gün 2 - Yerel Depo Oluşturma|02. Gün: Yerel Depo Oluşturma]]
-* [[Gün 3 - Klonlama|03. Gün: Klonlama]]
-* [[Gün 4 - Değişiklikleri kaydetme | 04. Gün: Değişiklikleri kaydetme ]]
-* [[Gün 5 - Değişiklikleri Versiyon Kontrolüne Alma|05. Gün: Değişiklikleri Versiyon Kontrolüne Alma]]
-* [[Gün 6 - Commit Edilmiş Değişiklikleri İptal Etmek|06. Gün: Commit Edilmiş Değişiklikleri İptal Etmek]]
-* [[Gün 7 - Commit Edilmiş Değişiklikleri Silmek|07. Gün: Commit Edilmiş Değişiklikleri Silmek]]
-* [[Gün 8 - Dal Oluşturmak|08. Gün: Dal Oluşturmak]]
-* [[Gün 9 - Değişiklikleri Birleştirme (Merge)|09. Gün: Değişiklikleri Birleştirme (Merge)]]
-* [[Gün 10 - Rebase|10. Gün: Rebase]]
-* [[Gün 11 - Birlikte Çalışma (Collaboration)|11. Gün: Birlikte Çalışma (Collaboration)]]
+* [Gün 1 - İstemci Kurulumları](Gun_01.md)
+* [Gün 2 - Yerel Depo Oluşturma](Gun_02.md)
+* [Gün 3 - Klonlama](Gun_03.md)
+* [Gün 4 - Değişiklikleri kaydetme](Gun_04.md)
+* [Gün 5 - Değişiklikleri Versiyon Kontrolüne Alma](Gun_05.md)
+* [Gün 6 - Commit Edilmiş Değişiklikleri İptal Etmek](Gun_06.md)
+* [Gün 7 - Commit Edilmiş Değişiklikleri Silmek](Gun_07.md)
+* [Gün 8 - Dal Oluşturmak](Gun_08.md)
+* [Gün 9 - Değişiklikleri Birleştirme (Merge)](Gun_09.md)
+* [Gün 10 - Rebase](Gun_10.md)
+* [Gün 11 - Birlikte Çalışma (Collaboration)](Gun_11.md)
+
+# [Alıştırmalara Başla](../../wiki)

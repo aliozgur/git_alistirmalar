@@ -33,7 +33,7 @@ Bu alıştırmayı yapmadan önce
 Git'in global konfigürasyonuna kullanıcı adınızı ve e-posta adresinizi git config  komutu ile tanımlayın.
 
 ```bash
-gi` config --global user.name ali.ozgur
+git config --global user.name ali.ozgur
 git config --global user.email ali.ozgur@xyz.com.tr
 git config --global core.eol native
 git config --global core.autocrlf true

@@ -7,7 +7,7 @@ Bilgi Kutusu (NOT) : Git'in push, pull gibi birkaç komutu dışındaki tüm kom
 Git'de boş bir repository oluşturmak için git init komutunu kullanırız. Init komutunun genel şablonu ve komut ile ilgili yardım almak için kullanabileceğiniz Git komutu aşağıdaki gibidir.
 
 ```bash
-gi` help <komut_adı>
+git help <komut_adı>
 git help init
 ```
 
