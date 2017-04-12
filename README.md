@@ -1,6 +1,5 @@
 ---
 title: This is my title
-layout: post
 ---
 
 # Git ile Versiyon Kontrolü - Günlük Alıştırmalar ile Tekrar
