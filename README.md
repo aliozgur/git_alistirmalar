@@ -1,3 +1,8 @@
+---
+title: This is my title
+layout: post
+---
+
 # Git ile Versiyon Kontrolü - Günlük Alıştırmalar ile Tekrar
 
 Bu depoda "Git ile Versiyon Kontrolü" kitabında ele alınan konuları da kapsayacak şekilde Git ile versiyon kontrolünü ve Git iş akışlarını kısa pratikler ile günlük çalışma akışımıza dahil etmek için uygulamalı alıştırmalara yer alıyor. 11 gün boyunca her gün sadece 1 saat ayırıp bir uygulama yaparak Git ile ilgili kitapta anlattığımız konulardaki bilginizi pekiştirebilirsiniz.
