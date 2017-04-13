@@ -2,9 +2,9 @@
 
 Bu bölüme kadar değişiklikleri geri almanın üç yöntemini ele aldık, hatırlatmak gerekirse
 
-* Track edilmeyen dosyalardaki (unstaged) değişiklikleri iptal etmek için **git checkout <dosya_adı>**
-* Track edilen fakat henüz commit edilmemiş (staged) dosyalardaki değişiklikleri iptal etmek için **git reset HEAD <dosya_adı>** 
-* Commit edilmiş bir değişikliği proje tarihçesini bozmadan geri almak için de **git revert <commit_hash>**
+* Track edilmeyen dosyalardaki (unstaged) değişiklikleri iptal etmek için **git checkout [dosya_adı]**
+* Track edilen fakat henüz commit edilmemiş (staged) dosyalardaki değişiklikleri iptal etmek için **git reset HEAD [dosya_adı]** 
+* Commit edilmiş bir değişikliği proje tarihçesini bozmadan geri almak için de **git revert [commit_hash]**
 	
 komutlarını kullanabiliriz.
 
