@@ -1,6 +1,6 @@
 # 1.Gün: İstemci Kurulumları
 
-* Putty (Bu kurulum opsiyonel), Putty Git tarafından depolara  SSH ile erişmek için kullanılır. 2. adımında kuracağınız Git for Windows SSH için OpenSSH mı yoksa Putty/Plink mi kurmak istediğinizi soracak
+* Putty (Bu kurulum opsiyonel), Putty Git tarafından depolara  SSH ile erişmek için kullanılır. 2. adımda kuracağınız Git for Windows SSH için OpenSSH mı yoksa Putty/Plink mi kurmak istediğinizi soracak
 * Git for Windows, Git'in Windows'da çalışması için kullanılan paket.
 * Görsel istemciler. Aşağıdaki iki istemciden en az bir tanesini kurabilirsiniz.
   * Atlassian SourceTree (Önerilen)
