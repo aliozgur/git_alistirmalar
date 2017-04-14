@@ -4,7 +4,7 @@ Klonlama işlemi ile uzakta bulunan bir Git deposunu kendi bilgisayarımıza ind
 
 ## Kolonlama Hazırlık
 
-* **Adım-1,** 1. Gün, 3. Alıştırmada Github, Gitlab veya Bitbucket üzerinde oluşturduğunuz projenin HTTP depo adresini öğrenmeniz gerekiyor. Bunun için kullandığınız Git servisinin sayfasına girip deponun ana sayfasındaki “Clone” linkini kullanabilirsiniz.
+* **Adım-1,** 1. Gün, 3. Alıştırmada Github, Gitlab veya Bitbucket üzerinde oluşturduğunuz projenin HTTP depo adresini öğrenmeniz gerekiyor. Bunun için kullandığınız Git servisinin sayfasına girip deponuzun ana sayfasındaki “Clone” linkini kullanabilirsiniz.
 
 * **Adım-2,** Aşağıdaki iki komutu çalıştırarak Git'in uzak deponuza HTTP üzerinden bağlanırken kullanacağı kullanıcı adını ve şifremizi geçici bir süre için kaydedeceği store bilgisini tanımlamalıyız
 
